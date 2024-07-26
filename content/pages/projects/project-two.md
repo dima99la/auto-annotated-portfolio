@@ -5,9 +5,9 @@ colors: colors-a
 date: '2024-01-20'
 client: RAFAEL
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Led a multi-million dollar Manufacturing Execution System (MES) integration,
+  enhancing production rates through comprehensive data analysis and full system
+  implementation.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
