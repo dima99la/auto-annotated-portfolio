@@ -18,10 +18,7 @@ sections:
       in data analysis, team management, and process optimization. Skilled in
       Power BI, SQL, Python, and SPC. Committed to innovation, operational
       excellence, and data-driven decision-making.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Hey there! Buckle up and get ready to be impressed by my journey from intern to Head of Data and Cyber Infrastructure.\_ wrangling data, leading teams, and optimizing processes, I've got some serious skills in Power BI, SQL, Python. Scroll down for more jaw-dropping details and credentials."
     styles:
       self:
         height: auto
