@@ -10,7 +10,7 @@ description: >-
   implementation.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/A_professional_industrial_engineer_overseeing_the_.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
