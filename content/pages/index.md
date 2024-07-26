@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Over five years of expertise in data systems and analytics. Proven leader
+      in data analysis, team management, and process optimization. Skilled in
+      Power BI, SQL, Python, and SPC. Committed to innovation, operational
+      excellence, and data-driven decision-making.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
